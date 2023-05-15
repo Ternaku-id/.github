@@ -22,5 +22,5 @@ Say goodbye to worries about your animals' well-being! Ternaku is the ultimate m
 |      Muhammad Athar Althariq Irawan     | M346DKX3922 |  Machine Learning  |          Machine Learning Engineer         |   -  |
 |     Muhammad Nashrullah     | M282DSX1283 | Machine Learning |          Machine Learning Engineer          |             -             |
 |      Agung Mahfudin     | A172DSX2454 | Mobile Development |          Android Mobile Developer          |    -    |
-|     Daffa Fakhuddin Arrozy     | C043DSX3474 |   Cloud Computing  |               Project Manager,DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/daffa-fakhuddin-arrozy-52a347254/) or [Github](https://github.com/daffatgi02)           |
+|     Daffa Fakhuddin Arrozy     | C043DSX3474 |   Cloud Computing  |               <b>Project Manager</b>,DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/daffa-fakhuddin-arrozy-52a347254/) or [Github](https://github.com/daffatgi02)           |
 | Achmad Fuadi | C320DSX0827 |   Cloud Computing  |          DevOps Engineer         | - |
