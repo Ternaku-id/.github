@@ -23,4 +23,4 @@ Say goodbye to worries about your animals' well-being! Ternaku is the ultimate m
 |     Muhammad Nashrullah     | M282DSX1283 | Machine Learning |          Machine Learning Engineer          |            [LinkedIn](https://www.linkedin.com/in/muhammad-nashrullah-868521267/) or [Github](https://github.com/Nashrul137)             |
 |      Agung Mahfudin     | A172DSX2454 | Mobile Development |          Android Mobile Developer          |   [LinkedIn](https://www.linkedin.com/in/agung-mahfudin-181822251) or [Github](https://github.com/AgungMahfudin)     |
 |     Daffa Fakhuddin Arrozy     | C043DSX3474 |   Cloud Computing  |               <b>Project Manager</b>,DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/daffa-fakhuddin-arrozy-52a347254/) or [Github](https://github.com/daffatgi02)           |
-| Achmad Fuadi | C320DSX0827 |   Cloud Computing  |          DevOps Engineer         | - |
+| Achmad Fuadi | C320DSX0827 |   Cloud Computing  |          DevOps Engineer         | [LinkedIn](https://www.linkedin.com/in/achmad-fuadi-115a83220) or [Github](https://github.com/AchmadFuadi) |
