@@ -19,7 +19,7 @@ Say goodbye to worries about your animals' well-being! Ternaku is the ultimate m
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |        Muhammad Farchan Al Rahman   | M146DSX2813 |  Machine Learning  |   Machine Learning Engineer |           -           |
-|      Muhammad Athar Althariq Irawan     | M346DKX3922 |  Machine Learning  |          Machine Learning Engineer         |   -  |
+|      Muhammad Athar Althariq Irawan     | M346DKX3922 |  Machine Learning  |          Machine Learning Engineer         |   [LinkedIn](https://www.linkedin.com/in/atharalthariq) or [Github](https://github.com/athar3)  |
 |     Muhammad Nashrullah     | M282DSX1283 | Machine Learning |          Machine Learning Engineer          |             -             |
 |      Agung Mahfudin     | A172DSX2454 | Mobile Development |          Android Mobile Developer          |    -    |
 |     Daffa Fakhuddin Arrozy     | C043DSX3474 |   Cloud Computing  |               <b>Project Manager</b>,DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/daffa-fakhuddin-arrozy-52a347254/) or [Github](https://github.com/daffatgi02)           |
