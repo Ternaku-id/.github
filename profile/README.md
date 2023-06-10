@@ -4,7 +4,7 @@
     <a href="https://saweria.co/ternakuid"><img alt="badge sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </p>
 
-## Introduction
+## TERNAKU
   
 🐮 Attention, Livestock Farmers! Meet Ternaku: Revolutionizing Livestock Health Management 🚀
 
@@ -29,3 +29,14 @@ Say goodbye to worries about your animals' well-being! Ternaku is the ultimate m
 
 - [Mannu Malhotra](https://www.linkedin.com/in/mannuscript) - Tech - Cloud Computing, Backend, and Machine Learning
 - [Dinik Fitri Rahajeng Pangestuti](https://www.linkedin.com/in/dinik-fitri-rahajeng-pangestuti-3880451bb) - Project Management, Business/Commerce/Startup, Feasibility Analisis for Project
+
+## Timeline
+
+| Team | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Machine Learning | Research Collection Data preparation | Dataset Preprocessing | Create Model, Training model | Testing and Evaluate model | Integrating |
+| Mobile Development | Prototyping Design | UI/UX Design | App Development | App Testing | Integrating |
+| Cloud Computing | Research | Build Architecture GCP | Create Backend and API Development | Deploy to Google Cloud Platform | Integrating |
+
+## Disclaimer
+-   This project is created for educational purpose as the requirement to graduate from [**_Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_**.](https://www.linkedin.com/company/bangkit-academy/mycompany/)
