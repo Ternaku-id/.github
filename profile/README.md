@@ -24,3 +24,8 @@ Say goodbye to worries about your animals' well-being! Ternaku is the ultimate m
 |      Agung Mahfudin     | A172DSX2454 | Mobile Development |          Android Mobile Developer          |   (INACTIVE)     |
 |     Daffa Fakhuddin Arrozy     | C043DSX3474 |   Cloud Computing  |               <b>Project Manager</b>,DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/daffa-fakhuddin-arrozy-52a347254/) or [Github](https://github.com/daffatgi02)           |
 | Achmad Fuadi | C320DSX0827 |   Cloud Computing  |          DevOps Engineer         | [LinkedIn](https://www.linkedin.com/in/achmad-fuadi-115a83220) or [Github](https://github.com/AchmadFuadi) |
+
+## Project Mentors
+
+- [Mannu Malhotra](https://www.linkedin.com/in/mannuscript) - Tech - Cloud Computing, Backend, and Machine Learning
+- [Dinik Fitri Rahajeng Pangestuti](https://www.linkedin.com/in/dinik-fitri-rahajeng-pangestuti-3880451bb) - Project Management, Business/Commerce/Startup, Feasibility Analisis for Project
