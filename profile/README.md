@@ -6,9 +6,9 @@
 
 ## TERNAKU
   
-🐮 Attention, Livestock Farmers! Meet Ternaku: Revolutionizing Livestock Health Management 🚀
+🐮 Attention, Livestock Breeders! Meet Ternaku: Revolutionizing Livestock Health diagnosis 🚀
 
-Say goodbye to worries about your animals' well-being! Ternaku is the ultimate mobile app that transforms how you manage livestock health.
+Say goodbye to worries about your animals' well-being! Ternaku is the ultimate mobile app that transforms how you know your livestock health.
 
 🌟 Our Simple Solution: No more struggling with limited access to veterinarians or lacking awareness about livestock diseases. Ternaku is here to alleviate your concerns.
 
