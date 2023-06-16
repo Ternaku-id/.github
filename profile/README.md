@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="banner ternaku" src="https://raw.githubusercontent.com/daffatgi02/background/main/image.png"><br>
+    <img alt="banner ternaku" src="https://github.com/Ternaku-id/banner/blob/main/thumbnail-github-1.jpg"><br>
     <br>
     <a href="https://saweria.co/ternakuid"><img alt="badge sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </p>
