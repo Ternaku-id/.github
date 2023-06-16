@@ -34,9 +34,9 @@ Say goodbye to worries about your animals' well-being! Ternaku is the ultimate m
 
 | Team | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| Machine Learning | Research Collection Data preparation | Dataset Preprocessing | Create Model, Training model | Testing and Evaluate model | Integrating |
-| Mobile Development | Prototyping Design | UI/UX Design | App Development | App Testing | Integrating |
-| Cloud Computing | Research | Build Architecture GCP | Create Backend and API Development | Deploy to Google Cloud Platform | Integrating |
+| Machine Learning | Research Collection Data preparation | Dataset Preprocessing | Create Model, Training model | Testing and Evaluate model | Final Testing and Deployment |
+| Mobile Development | Prototyping Design | UI/UX Design | App Development | App Testing | Final Testing and Deployment |
+| Cloud Computing | Research | Build Architecture GCP | Create Backend and API Development | Deploy to Google Cloud Platform | Final Testing and Deployment |
 
 ## Disclaimer
 -   This project is created for educational purpose as the requirement to graduate from [**_Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_**.](https://www.linkedin.com/company/bangkit-academy/mycompany/)
